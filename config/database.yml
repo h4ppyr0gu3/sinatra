@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sinatra_development
+  username: david
+  password:
+  host: localhost
+  port: 5432
